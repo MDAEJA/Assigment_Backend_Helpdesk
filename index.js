@@ -4,7 +4,7 @@ const routes = require("./mvc/routes/userRoutes");
 const cors = require("cors");
 
 const corsOptions = {
-    origin : "http://localhost:3000",
+    origin : "https://silver-cocada-d4c693.netlify.app",
     credentials : true
 }
 
