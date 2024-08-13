@@ -4,7 +4,7 @@ const routes = require("./mvc/routes/userRoutes");
 const cors = require("cors");
 
 const corsOptions = {
-    origin : ["https://darling-haupia-9df6eb.netlify.app","https://silver-cocada-d4c693.netlify.app","http://localhost:3000"],
+    origin : ["https://darling-haupia-9df6eb.netlify.app","https://silver-cocada-d4c693.netlify.app","http://localhost:3000","https://adorable-paprenjak-da864c.netlify.app"],
     credentials : true
 }
 
